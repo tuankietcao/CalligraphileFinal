@@ -1,6 +1,10 @@
 scikit-learn
 numpy
+streamlit
 streamlit_drawable_canvas
 matplotlib
 tensorflow
 keras
+opencv
+PIL
+
